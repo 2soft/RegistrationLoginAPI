@@ -1,0 +1,14 @@
+E:\laini\LoginAndRegistration\LoginAndRegistration\bin\Debug\netcoreapp2.2\LoginAndRegistration.deps.json
+E:\laini\LoginAndRegistration\LoginAndRegistration\bin\Debug\netcoreapp2.2\LoginAndRegistration.runtimeconfig.json
+E:\laini\LoginAndRegistration\LoginAndRegistration\bin\Debug\netcoreapp2.2\LoginAndRegistration.runtimeconfig.dev.json
+E:\laini\LoginAndRegistration\LoginAndRegistration\bin\Debug\netcoreapp2.2\LoginAndRegistration.dll
+E:\laini\LoginAndRegistration\LoginAndRegistration\bin\Debug\netcoreapp2.2\LoginAndRegistration.pdb
+E:\laini\LoginAndRegistration\LoginAndRegistration\obj\Debug\netcoreapp2.2\LoginAndRegistration.csproj.CoreCompileInputs.cache
+E:\laini\LoginAndRegistration\LoginAndRegistration\obj\Debug\netcoreapp2.2\LoginAndRegistration.RazorAssemblyInfo.cache
+E:\laini\LoginAndRegistration\LoginAndRegistration\obj\Debug\netcoreapp2.2\LoginAndRegistration.RazorAssemblyInfo.cs
+E:\laini\LoginAndRegistration\LoginAndRegistration\obj\Debug\netcoreapp2.2\LoginAndRegistration.AssemblyInfoInputs.cache
+E:\laini\LoginAndRegistration\LoginAndRegistration\obj\Debug\netcoreapp2.2\LoginAndRegistration.AssemblyInfo.cs
+E:\laini\LoginAndRegistration\LoginAndRegistration\obj\Debug\netcoreapp2.2\LoginAndRegistration.RazorTargetAssemblyInfo.cache
+E:\laini\LoginAndRegistration\LoginAndRegistration\obj\Debug\netcoreapp2.2\LoginAndRegistration.dll
+E:\laini\LoginAndRegistration\LoginAndRegistration\obj\Debug\netcoreapp2.2\LoginAndRegistration.pdb
+E:\laini\LoginAndRegistration\LoginAndRegistration\obj\Debug\netcoreapp2.2\LoginAndRegistration.csprojAssemblyReference.cache
